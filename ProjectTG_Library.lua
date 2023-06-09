@@ -233,6 +233,7 @@ function Library:CreateWindow(WinName)
 		UIPadding_3.Parent = Items_1
 		UIPadding_3.PaddingLeft = UDim.new(0,2)
 		UIPadding_3.PaddingTop = UDim.new(0,6)
+    UIPadding_3.PaddingBottom = UDim.new(0,6)
 
 		UIListLayout_2.Parent = Items_1
 		UIListLayout_2.Padding = UDim.new(0,7)
