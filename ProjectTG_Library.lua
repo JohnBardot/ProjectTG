@@ -144,7 +144,7 @@ function Library:CreateWindow(WinName)
 	Tabs_1.Position = UDim2.new(0.5, 0,0.5, 0)
 	Tabs_1.Size = UDim2.new(0, 117,0, 233)
 	Tabs_1.ClipsDescendants = true
-	Tabs_1.AutomaticCanvasSize = Enum.AutomaticSize.None
+	Tabs_1.AutomaticCanvasSize = Enum.AutomaticSize.Y
 	Tabs_1.BottomImage = "rbxasset://textures/ui/Scroll/scroll-bottom.png"
 	Tabs_1.CanvasPosition = Vector2.new(0, 0)
 	Tabs_1.ElasticBehavior = Enum.ElasticBehavior.WhenScrollable
@@ -215,7 +215,7 @@ function Library:CreateWindow(WinName)
 		Items_1.Position = UDim2.new(0.5, 0,0.5, 0)
 		Items_1.Size = UDim2.new(0, 288,0, 232)
 		Items_1.ClipsDescendants = true
-		Items_1.AutomaticCanvasSize = Enum.AutomaticSize.None
+		Items_1.AutomaticCanvasSize = Enum.AutomaticSize.Y
 		Items_1.BottomImage = "rbxasset://textures/ui/Scroll/scroll-bottom.png"
 		Items_1.CanvasPosition = Vector2.new(0, 0)
 		Items_1.ElasticBehavior = Enum.ElasticBehavior.WhenScrollable
