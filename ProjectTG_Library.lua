@@ -454,7 +454,7 @@ function Library:CreateWindow(WinName)
 			BoxHolder_2.BorderColor3 = Color3.fromRGB(27,42,53)
 			BoxHolder_2.BorderSizePixel = 0
 			BoxHolder_2.CursorPosition = -1
-			BoxHolder_2.Position = UDim2.new(0.5, 0,0.473684222, 0)
+			BoxHolder_2.Position = UDim2.new(0.33, 0,0.6, 0)
 			BoxHolder_2.Size = UDim2.new(0, 81,0, 18)
 			BoxHolder_2.Font = Enum.Font.Code
 			BoxHolder_2.PlaceholderColor3 = Color3.fromRGB(178,178,178)
@@ -473,7 +473,7 @@ function Library:CreateWindow(WinName)
 			BoxTest_1.BorderColor3 = Color3.fromRGB(27,42,53)
 			BoxTest_1.BorderSizePixel = 0
 			BoxTest_1.Position = UDim2.new(0.5, 0,0.5, 0)
-			BoxTest_1.Size = UDim2.new(0, 230,0, 28)
+			BoxTest_1.Size = UDim2.new(0, 180,0, 28)
 			BoxTest_1.Font = Enum.Font.Code
 			BoxTest_1.Text = BoxName
 			BoxTest_1.TextColor3 = Color3.fromRGB(255,11,0)
