@@ -473,7 +473,7 @@ function Library:CreateWindow(WinName)
 			BoxTest_1.BorderColor3 = Color3.fromRGB(27,42,53)
 			BoxTest_1.BorderSizePixel = 0
 			BoxTest_1.Position = UDim2.new(0.5, 0,0.466666669, 0)
-			BoxTest_1.Size = UDim2.new(0, 270,0, 28)
+			BoxTest_1.Size = UDim2.new(0, 230,0, 28)
 			BoxTest_1.Font = Enum.Font.Code
 			BoxTest_1.Text = BoxName
 			BoxTest_1.TextColor3 = Color3.fromRGB(255,11,0)
